@@ -4,7 +4,7 @@ A modular Bi-directional RRT (Bi-RRT) path planning pipeline built on a custom m
 
 ---
 
-## 🧭 Project Overview
+## Project Overview
 
 This planner operates on a map created interactively using keyboard controls (WASDX), simulating manual exploration. The saved map is then processed for obstacle inflation and used for Bi-RRT path planning.
 
@@ -17,7 +17,7 @@ Key features:
 
 ---
 
-## 📦 Folder Structure
+## Folder Structure
 <pre>
 birrt-map-navigator/
 ├── birrt.py                  # Main runner script
@@ -34,12 +34,17 @@ birrt-map-navigator/
 </pre>
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Install dependencies
 
 ```bash
 pip install -r requirements.txt
-
-
+```
+###2. Run the planner
 python birrt.py
+
+
+## Demo Outputs
+
+### Original Map
