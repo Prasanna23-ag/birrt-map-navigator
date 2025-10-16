@@ -18,7 +18,7 @@ Key features:
 ---
 
 ## 📦 Folder Structure
-
+<pre>
 birrt-map-navigator/
 ├── birrt.py                  # Main runner script
 ├── planner/                  # Modular planner package
