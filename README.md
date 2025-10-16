@@ -53,7 +53,7 @@ python3 birrt.py
 ![Slam Map](map2.png)
 
 ### Inflated Map
-![Inflated Map](figure_1.png)
+![Inflated Map](Figure_1.png)
 
 ### Path Overlaid on Map
 ![Planned Path](fig1.png)
