@@ -31,7 +31,7 @@ birrt-map-navigator/
 ├── map2.pgm                  # Custom map image
 ├── map2.yaml                 # Map metadata
 
-
+</pre>
 ---
 
 ## 🚀 Getting Started
