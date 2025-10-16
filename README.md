@@ -42,8 +42,10 @@ birrt-map-navigator/
 pip install -r requirements.txt
 ```
 ###2. Run the planner
-python birrt.py
 
+```bash
+python birrt.py
+```
 
 ## Demo Outputs
 
