@@ -39,6 +39,7 @@ birrt-map-navigator/
 ### 1. Install dependencies
 
 ```bash
-pip install numpy opencv-python matplotlib scipy pyyaml
+pip install -r requirements.txt
+
 
 python birrt.py
