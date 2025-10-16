@@ -44,9 +44,10 @@ pip install -r requirements.txt
 ###2. Run the planner
 
 ```bash
-python birrt.py
+python3 birrt.py
 ```
 
 ## Demo Outputs
 
 ### Original Map
+![Slam Map](map2.png)
